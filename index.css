@@ -1,0 +1,23 @@
+
+
+#burlywood {
+    background-color: burlywood;
+    margin: 2% 28%;
+}
+
+#italic {
+    font-style: italic;
+}
+
+#border1,td,th {
+    border: 1px solid;
+}
+
+textarea {
+    width: 250px;
+    height: 60px;
+}
+
+.small {
+    font-size: small;
+}
